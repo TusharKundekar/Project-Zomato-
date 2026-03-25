@@ -35,7 +35,7 @@ The Zomato Business Insights project analyzes food delivery data to identify key
 ![Tableau Dashboard](./assets/1.Tableau%20Dashboard%20Snapshot.jpeg)
 ![Excel Dashboard](./assets/2.Excel%20Dashboard%20Snapshot.jpeg)  
 ![Power%20BI%20Dashboard%201](./assets/3.%20Power%20BI%20Dashboard%20Snapshot-I.jpeg)  
-![Power BI Dashboard 2](./assets/4.%20%20Power%20BI%20Dashboard%20Snapshot-II.jpeg)
+![Power BI Dashboard 2](https://github.com/TusharKundekar/Project-Zomato-/blob/main/assets/4%20.%20Power%20BI%20Dashboard%20Snapshot-II.jpeg)
 
 
 ### 🛢️ SQL Analysis  
