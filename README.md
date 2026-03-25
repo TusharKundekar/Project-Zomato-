@@ -1,6 +1,5 @@
-## Project-Zomato
-##🍽️ Zomato data analytics project analyzing customer behavior, sales trends &amp; restaurant performance 📊 using SQL, Excel, Tableau &amp; Power BI 💻. Includes data modeling, DAX &amp; interactive dashboards 🚀 to deliver actionable insights and support data-driven decisions 📈.
-
+# **Project-Zomato** 
+### **🍽️ Zomato data analytics project analyzing customer behavior, sales trends & restaurant performance 📊 using SQL, Excel, Tableau & Power BI 💻. Includes data modeling, DAX & interactive dashboards 🚀 to deliver actionable insights and support data-driven decisions 📈.**
 ## 📂 Project Snapshots  
 
 ### 📊 Dashboards  
@@ -91,9 +90,11 @@ To build a complete analytics solution that enables data-driven decision-making 
 
 ---
 
-## 👨‍💻 Author  
-**Tushar Kundekar**  
-Aspiring Data Analyst | Future Cloud Architect ☁️  
+## 👤 Author
+
+**Tushar Kundekar** *Data Analyst | Analytics Engineer 📊*
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME)  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/TusharKundekar)
 
 ---
 
